@@ -1,0 +1,6 @@
+apiVersion: v2  ##v2 for helm3 v1 >> for helm 2
+name: guestbook
+appVersion: "1.1"  #### application version 
+description: A Helm chart for Guestbook 1.1
+version: 0.1.0   ####Chart version
+type: application
